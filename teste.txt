@@ -1,0 +1,48 @@
+%runfile C:/Users/Rittush/Downloads/grade_calculatorisha.py --wdir
+Enter student name: isha
+Enter marks (0-100): 93
+
+RESULT FOR ISHA:
+Marks: 93 /100
+Grade: A
+Message: Excellent Work! 
+
+ Grading Logic:
+
+%runfile C:/Users/Rittush/Downloads/grade_calculatorisha.py --wdir
+Enter student name: sajda
+Enter marks (0-100): 85
+
+RESULT FOR SAJDA:
+Marks: 85 /100
+Grade: B
+Message: Very Good! Keep it up! 
+
+ Grading Logic:
+
+%runfile C:/Users/Rittush/Downloads/grade_calculatorisha.py --wdir
+Enter student name: petla
+Enter marks (0-100): 75
+
+RESULT FOR PETLA:
+Marks: 75 /100
+Grade: C
+Message: Good Job! 
+
+%runfile C:/Users/Rittush/Downloads/grade_calculatorisha.py --wdir
+Enter student name: shreya
+Enter marks (0-100): 65
+
+RESULT FOR SHREYA:
+Marks: 65 /100
+Grade: D
+Message: You Passed. Keep Improving!
+
+%runfile C:/Users/Rittush/Downloads/grade_calculatorisha.py --wdir
+Enter student name: sumit
+Enter marks (0-100): 53
+
+RESULT FOR SUMIT:
+Marks: 53 /100
+Grade: F
+Message: Needs Improvement. Don't Give Up! 
